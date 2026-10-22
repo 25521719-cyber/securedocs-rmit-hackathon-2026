@@ -98,7 +98,7 @@ docker run --rm -p 3000:3000 -e SECUREDOCS_ENABLE_DEMO=true -v securedocs-demo:/
 The demo API is disabled by default in production builds. Set `SECUREDOCS_ENABLE_DEMO=true` only for isolated public-data demonstrations.
 
 ## Demo script (two minutes)
-
+https://drive.google.com/file/d/1-aP78HU9V0cI9yBrDRGcoD-HecTQ2kGD/view?usp=sharing
 See [DEMO_SCRIPT.md](docs/04-demo/DEMO_SCRIPT.md) for the full presenter guide. Quick version:
 
 1. **Open and reset** (10s): Navigate to Shared With Me, click Reset demo. State: "This is a simulation under Tide's Plan C. No real security is active."
